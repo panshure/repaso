@@ -1,2 +1,0 @@
-# repaso
-practicando cluster
